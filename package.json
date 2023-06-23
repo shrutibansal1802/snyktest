@@ -9,20 +9,17 @@
     "@atlaskit/css-reset": "^6.0.1",
     "@atlaskit/icon": "^21.12.4",
     "@atlaskit/modal-dialog": "^12.5.6",
-    "@atlaskit/page-layout": "^1.6.0",
     "@atlaskit/section-message": "^6.4.2",
     "@atlaskit/select": "^16.2.2",
     "@atlaskit/spinner": "^15.5.1",
     "@atlaskit/tabs": "^13.4.2",
     "@atlaskit/tag": "^11.5.3",
     "@atlaskit/textfield": "^5.4.2",
-    "@forge/api": "^2.11.1",
     "@forge/bridge": "2.5.6",
     "@forge/ui": "^1.9.0",
     "buffer": "^6.0.3",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-router-dom": "^6.11.1"
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "npm-watch": "^0.11.0",

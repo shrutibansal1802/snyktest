@@ -14,7 +14,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <atlassian-connect-spring-boot.version>2.2.3</atlassian-connect-spring-boot.version>
+        <atlassian-connect-spring-boot.version>2.3.0</atlassian-connect-spring-boot.version>
     </properties>
 
     <dependencies>
@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.13.1</version>
+            <version>1.15.3</version>
         </dependency>
         <!--Freemaker template -->
         <dependency>
@@ -78,7 +78,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>5.2.2</version>
+            <version>5.3.0</version>
         </dependency>
         <dependency>
             <groupId>com.sun.mail</groupId>

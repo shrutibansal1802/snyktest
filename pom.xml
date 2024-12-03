@@ -14,7 +14,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <atlassian-connect-spring-boot.version>2.3.0</atlassian-connect-spring-boot.version>
+        <atlassian-connect-spring-boot.version>2.2.3</atlassian-connect-spring-boot.version>
     </properties>
 
     <dependencies>
@@ -36,6 +36,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
+            <version>3.1.2</version>
         </dependency>
         <!-- Pdf dependency -->
         <dependency>
@@ -73,6 +74,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
+            <version>42.3.3</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>

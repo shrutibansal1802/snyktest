@@ -37,7 +37,7 @@
         <dependency>
             <groupId>com.atlassian.connect</groupId>
             <artifactId>atlassian-connect-spring-boot-starter</artifactId>
-            <version>3.0.5</version>
+            <version>4.1.2</version>
         </dependency>
         <dependency>
             <groupId>com.atlassian.connect</groupId>

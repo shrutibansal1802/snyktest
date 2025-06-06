@@ -21,7 +21,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>3.4.0</version>
+            <version>3.4.1</version>
         </dependency>
 
         <dependency>
@@ -203,7 +203,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
-            <version>9.0.96</version>
+            <version>9.0.105</version>
         </dependency>
 
         <!--        <dependency>-->

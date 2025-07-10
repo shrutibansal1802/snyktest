@@ -14,7 +14,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <atlassian-connect-spring-boot.version>2.3.2</atlassian-connect-spring-boot.version>
+        <atlassian-connect-spring-boot.version>4.0.1</atlassian-connect-spring-boot.version>
     </properties>
 
     <dependencies>
@@ -202,7 +202,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
-            <version>9.0.96</version>
+            <version>9.0.107</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.json/json -->

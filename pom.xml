@@ -14,14 +14,14 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <atlassian-connect-spring-boot.version>2.3.2</atlassian-connect-spring-boot.version>
+        <atlassian-connect-spring-boot.version>4.0.1</atlassian-connect-spring-boot.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <version>3.4.0</version>
+            <version>3.4.1</version>
         </dependency>
 
         <dependency>
@@ -157,7 +157,7 @@
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
-            <version>3.12.0</version>
+            <version>3.18.0</version>
         </dependency>
         <dependency>
             <groupId>org.postgresql</groupId>
@@ -202,7 +202,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
-            <version>9.0.96</version>
+            <version>9.0.107</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.json/json -->

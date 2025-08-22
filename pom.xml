@@ -14,7 +14,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <atlassian-connect-spring-boot.version>2.3.2</atlassian-connect-spring-boot.version>
+        <atlassian-connect-spring-boot.version>3.0.0</atlassian-connect-spring-boot.version>
     </properties>
 
     <dependencies>
@@ -27,20 +27,20 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>5.3.26</version>
+            <version>6.2.10</version>
             <scope>compile</scope>
         </dependency>
 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>5.3.38</version>
+            <version>6.2.10</version>
         </dependency>
 
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-web</artifactId>
-            <version>5.7.14</version>
+            <version>6.4.9</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
@@ -69,13 +69,13 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-config</artifactId>
-            <version>5.7.14</version>
+            <version>6.4.9</version>
         </dependency>
 
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-core</artifactId>
-            <version>5.7.14</version>
+            <version>6.4.9</version>
             <scope>compile</scope>
         </dependency>
 
@@ -197,7 +197,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>5.3.20</version>
+            <version>6.2.10</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
